@@ -4,20 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 14th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Christopher Cyrille
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I learned the basics of JavaScript. Creating the expense calculator helped me understand how certain words are used to trigger an action in the code.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We must keep variable names short and readable.
+2. Indenting code makes it easier to track what you are doing.
+3. Developer Tools are interactive on any webpage.
 
